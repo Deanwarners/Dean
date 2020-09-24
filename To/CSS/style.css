@@ -6,13 +6,11 @@
 .kope {
    font-family:cursive;
     color:darkgreen;
-    background-color: purple;
 }
  
 .kop {
     font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: darkturquoise;
-    background-color: purple;
 }
 
 div {
@@ -23,7 +21,7 @@ div {
 a:link, a:visited {
   background-color: #f44336;
   color: white;
-  padding: 14px 25px;
+  padding: 20px 30px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
