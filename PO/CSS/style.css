@@ -3,15 +3,15 @@ h1 {
 }
 
 #container {
-    background-color:  rgb(4, 4, 66);
-    width: 55%;
+    background-color:  rgb(104, 206, 231);
+    width: 100%;
     height: 500px;
-    margin-left: 20%;
+    margin-left: 0%;
     display: flex;
 }
 
 #menu {
-    background-color:  rgb(255, 102, 14);
+    background-color:  rgb(5, 5, 5);
     width: 100%;
     height: 22%;
     margin-left: 0px;
@@ -19,22 +19,41 @@ h1 {
 }
 
 #bier {
-  background-color: #f44336;
+  background-color:  #f44336;
   color: white;
-  padding: 20px 30px;
+  padding: 25px 45px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: 10%;
+  margin-left: 20%;
 }
  
  #wijn {
   background-color: #f44336;
   color: white;
-  padding: 20px 30px;
+  padding: 25px 45px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   margin-left: 10%;
 }
  
+  #mixen {
+  background-color: #f44336;
+  color: white;
+  padding: 25px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 10%;
+}
+ 
+  #overig {
+  background-color: #f44336;
+  color: white;
+  padding: 25px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 10%;
+}
