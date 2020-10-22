@@ -5,7 +5,11 @@ figure {
   text-indent: 0;
 }
 
-
+a:hover {
+    color: rgb(23, 23, 245);
+    background-color: rgb(23, 23, 245);
+    text-decoration:#f44336;
+}
 
 
 
