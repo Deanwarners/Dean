@@ -1,5 +1,5 @@
 figure {
-  
+  margin-left:3%;
   font-style: italic;
   font-size:  50px;
   text-indent: 0;
@@ -40,6 +40,18 @@ h1 {
     padding-top: 40px;
 }
 
+#home {
+     background-color:  #f44336;
+  color: white;
+  padding: 25px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 10%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 5px solid rgb(23, 23, 245); 
+}
+
 #bier {
   background-color:  #f44336;
   color: white;
@@ -47,7 +59,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: 20%;
+  margin-left: 10%;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border: 5px solid rgb(23, 23, 245); 
 }
